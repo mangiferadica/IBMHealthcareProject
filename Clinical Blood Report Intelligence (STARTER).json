@@ -1,0 +1,130 @@
+{
+  "data": {
+    "edges": [],
+    "nodes": [
+      {
+        "data": {
+          "id": "note-XC0i5",
+          "node": {
+            "description": "### 💡 Tambahkan Read File di sini\n### Upload file hasil pemeriksaan darah lengkap",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "height": 324,
+        "id": "note-XC0i5",
+        "measured": {
+          "height": 324,
+          "width": 401
+        },
+        "position": {
+          "x": 472.85363580275566,
+          "y": -176.12187847376435
+        },
+        "resizing": false,
+        "selected": false,
+        "type": "noteNode",
+        "width": 401
+      },
+      {
+        "data": {
+          "id": "note-hLwPP",
+          "node": {
+            "description": "### 💡 Tambahkan Language Model di sini,\n###  Sesuaikan model dan System Messagenya",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "id": "note-hLwPP",
+        "measured": {
+          "height": 324,
+          "width": 364
+        },
+        "position": {
+          "x": 1226.788892030399,
+          "y": -185.23681248687922
+        },
+        "selected": false,
+        "type": "noteNode"
+      },
+      {
+        "data": {
+          "id": "note-5GLPn",
+          "node": {
+            "description": "### 💡 Tambahkan Prompt di sini,\n###  Sesuaikan isinya",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "id": "note-5GLPn",
+        "measured": {
+          "height": 324,
+          "width": 364
+        },
+        "position": {
+          "x": 863.4936649362497,
+          "y": -181.33041219554423
+        },
+        "selected": false,
+        "type": "noteNode"
+      },
+      {
+        "data": {
+          "id": "note-JFp51",
+          "node": {
+            "description": "### 💡 Tambahkan Chat Output",
+            "display_name": "",
+            "documentation": "",
+            "template": {
+              "backgroundColor": "transparent"
+            }
+          },
+          "type": "note"
+        },
+        "dragging": false,
+        "id": "note-JFp51",
+        "measured": {
+          "height": 324,
+          "width": 324
+        },
+        "position": {
+          "x": 1612.2203874421134,
+          "y": -190.44534620865912
+        },
+        "selected": false,
+        "type": "noteNode"
+      }
+    ],
+    "viewport": {
+      "x": -300.6122991370878,
+      "y": 263.1726780767105,
+      "zoom": 0.7075019648413791
+    }
+  },
+  "description": "Starter Project IBM Health",
+  "endpoint_name": null,
+  "id": "d56c3372-7385-43c5-b2f1-6e09d8441933",
+  "is_component": false,
+  "last_tested_version": "1.7.2",
+  "name": "Clinical Blood Report Intelligence (STARTER)",
+  "tags": [
+    "rag",
+    "q-a",
+    "openai"
+  ]
+}
